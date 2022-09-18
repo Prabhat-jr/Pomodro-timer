@@ -1,0 +1,41 @@
+.timer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 20rem;
+    width: 30rem;
+    margin-left: 27rem;
+    border-radius: 10px;
+}
+.Container{
+    font-size: 20px;
+    font-weight: bold;
+}
+.Timer_Containe{
+    color: black;
+    margin-left: 90px;
+}
+.reset{
+    margin-right: 25px;
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+    background-color: #83cff3;
+    border-radius: 7px;
+}
+.pause{
+    margin-right: 25px;
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+    background-color:#83cff3;
+    border-radius: 7px;
+}
+.start{
+    height: 50px;
+    width: 80px;
+    font-size: 20px;
+    background-color: #83cff3;
+    border-radius: 7px; 
+}

@@ -1,0 +1,41 @@
+.loginpage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    border: 1px solid orange;
+    width: 35rem;
+    height: 20rem;
+    margin-left: 25rem;
+}
+/* .homepage{
+    margin: 5rem;
+    height: 50vh;
+    padding: 5rem;
+} */
+.emailpage{
+    display: flex;
+    flex-direction: column;
+    width: 28rem;
+    gap: 10px;
+    font-size: 20px;
+}
+.inputemail
+{
+    height: 8vh;
+}
+.passwordpage{
+    display: flex;
+    flex-direction: column;
+    width: 28rem;
+    gap: 10px;
+    font-size: 20px;
+}
+.loginbutton{
+    height: 40px;
+    width: 80px;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: blue;
+}
